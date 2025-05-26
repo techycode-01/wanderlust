@@ -63,7 +63,4 @@ npm start
 - `/views` - EJS templates
 - `/public` - Static assets
 - `/utils` - Utility functions & error handling
-
-## License
-MIT License
 ```
